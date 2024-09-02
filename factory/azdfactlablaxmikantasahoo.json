@@ -1,0 +1,9 @@
+{
+	"name": "azdfactlablaxmikantasahoo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "524924c2-17df-479b-859c-c66ddf1a1301",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
